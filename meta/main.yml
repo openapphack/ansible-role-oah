@@ -1,5 +1,9 @@
 ---
-dependencies: []
+dependencies:
+  - oah.users
+  - oah.usage
+  - oah.shell
+
 
 galaxy_info:
   author: Vinod Panicker
