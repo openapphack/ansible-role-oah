@@ -3,6 +3,7 @@ dependencies:
   - oah.users
   - oah.usage
   - oah.shell
+  - oah.projects
 
 
 galaxy_info:
