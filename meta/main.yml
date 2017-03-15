@@ -1,10 +1,10 @@
 ---
 dependencies:
   - oah.users
-  - oah.usage
+  - oah.git
   - oah.shell
   - oah.projects
-
+  - oah.usage
 
 galaxy_info:
   author: Vinod Panicker
