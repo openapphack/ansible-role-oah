@@ -1,3 +1,7 @@
+---
+- debug:
+    msg: "oah-reset"
+
 #remove oah-usage
 
 #remove oah-shell

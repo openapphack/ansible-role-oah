@@ -1,4 +1,6 @@
 ---
+- debug:
+    msg: "oah-validate"
 # check oah users exists
 
 # check if oah shell exists

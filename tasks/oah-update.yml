@@ -1,4 +1,6 @@
 ---
+- debug:
+    msg: "oah-update"
 #check and run oah selfupdate
 
 #check and run oah roles selfupdate

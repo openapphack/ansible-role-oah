@@ -1,4 +1,7 @@
 ---
+- debug:
+    msg: "oah-remove"
+    
 #remove oah-usage
 
 #remove oah-shell
