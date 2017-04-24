@@ -1,6 +1,6 @@
 ---
 - debug:
-    msg: "oah-reset"
+    msg: "oah-reset of oah.oah"
 
 #remove oah-usage
 

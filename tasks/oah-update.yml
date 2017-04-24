@@ -1,6 +1,6 @@
 ---
 - debug:
-    msg: "oah-update"
+    msg: "oah-update of oah.oah"
 #check and run oah selfupdate
 
 #check and run oah roles selfupdate

@@ -1,6 +1,6 @@
 ---
 - debug:
-    msg: "oah-intall"
+    msg: "oah-install of oah.oah"
 
 - name: Add ansible repository.
   apt_repository: repo='ppa:ansible/ansible'

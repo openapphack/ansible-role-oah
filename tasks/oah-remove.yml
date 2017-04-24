@@ -1,7 +1,7 @@
 ---
 - debug:
-    msg: "oah-remove"
-    
+    msg: "oah-remove of oah.oah"
+
 #remove oah-usage
 
 #remove oah-shell
